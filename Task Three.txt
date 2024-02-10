@@ -1,0 +1,10 @@
+User History: YouTube 
+
+Ver un Video en YouTube
+
+• Navegar por YouTube para encontrar videos.
+• Utilizar la barra de búsqueda para buscar un video específico o nombre de canal.
+• Una vez que encuentro un video que me interesa, puedo hacer clic en él para reproducirlo.
+• Durante la reproducción del video, tengo controles para pausar, reproducir, retroceder, avanzar, activar los subtitulos, aumentar la velocidad de reproducción, compartirlo, transmitirlo a una pantalla y ajustar la calidad.
+• Después de ver un video, se me sugieren otros videos relacionados en función de mi historial de visualización y preferencias.
+• Puedo crear una lista de reproducción
